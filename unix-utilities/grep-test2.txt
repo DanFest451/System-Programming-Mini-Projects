@@ -1,0 +1,2 @@
+foo in second file
+no match
